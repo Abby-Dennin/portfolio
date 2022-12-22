@@ -37,16 +37,6 @@ body {
   color: black;
 }
 
-.flex-container {
-  display: flex;
-  flex-flow: column wrap;
-  align-content: space-between;
-}
-
-.flex-container > div {
-  margin: 10px;
-  text-align: center;
-}
 
 .leftcolumn {
   float: left;
